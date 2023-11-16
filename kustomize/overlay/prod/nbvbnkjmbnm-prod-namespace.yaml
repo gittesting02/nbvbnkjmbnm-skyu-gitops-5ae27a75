@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: nbvbnkjmbnm-prod
+  labels:
+    environment-id: env_630d95c5-0e55-44d8-b7a4-ee35e7ce5394
+    project-id: project_b3596986-44fd-4634-977d-0d3ba8b18797
+    project-name: nbvbnkjmbnm
+    environment-name: prod
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
